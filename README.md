@@ -1,2 +1,2 @@
 # sankey-generator
-Draws sankey diagrams given data from text files
+Draws a sankey diagram given data from a text file

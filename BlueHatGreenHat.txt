@@ -1,0 +1,14 @@
+Blue Hat, Green Hat by Sandra Boynton
+Words,96,96,96
+Oops,6
+Blue,5,0,0,192
+Green,4,0,192,0
+Red,4,192,0,9
+Hat,4
+Shirt, 4
+Yellow,4,255,255,0
+Pants,4
+Shoes,4
+Coat,1
+Purple,1,128,0,128
+Socks,1

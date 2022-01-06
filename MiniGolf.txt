@@ -1,0 +1,6 @@
+Mini Golf Results
+Holes Played,0,192,0
+Birdie,3
+Par,10
+Bogey,2
+Double Bogey,3

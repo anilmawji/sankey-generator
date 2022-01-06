@@ -1,0 +1,9 @@
+Cal Ripken Jr.'s Plate Appearances
+At Bats
+Single,2106
+Double,603
+Triple,44
+Home Run,431
+Walk / HBP,1402
+Sacrifice Out,137
+Other Out,8160

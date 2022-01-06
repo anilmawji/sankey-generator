@@ -1,0 +1,8 @@
+Distribution of Bricks in Lego 40310: Botanical Accessories
+All Parts, 100, 100, 100
+Bright Green, 3, 88, 171, 65
+Bright Lt. Orange, 3, 252, 172, 0
+Green, 8, 0, 133, 43
+Red, 3, 180, 0, 0
+White, 5, 244, 244, 244
+Yellow, 2, 250, 200, 10

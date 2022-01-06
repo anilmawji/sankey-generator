@@ -1,7 +1,5 @@
 ##
-# CPSC 217 Assignment 4
 # Name: Anil Mawji
-# UCID: 30099809
 #
 # Program Description: Draws a Sankey diagram to the screen using data from an external text file
 
